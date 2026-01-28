@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2" width="400" />
+<p align="center"><img src="https://github.com/user-attachments/assets/c213c80d-5a80-4657-b1ad-7da08bf44ed5" width="600" />
 
 <h3 align="center">Hello 👋, I'm Aimi </h3>
 
