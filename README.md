@@ -1,10 +1,12 @@
-<img src="https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2" width="600" />
+<p align="center"><img src="https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2" width="400" />
 
-<h3 align="center"># Hello 👋, I'm Aimi </h3>
+<h3 align="center">Hello 👋, I'm Aimi </h3>
 
-<h3 align="center">### A budding AI developer and analyst</h3>
+<h3 align="center">A budding AI developer and analyst</h3>
 
 - 🔭 I'm currently working on **microalgae detection and identification through VLM.**
+
+- 📚 Actively learning **Arduino, SQL for Database** as a side-project.
 
 - 🤝 I'm looking for help with **learning complete AI frameworks.**
 
