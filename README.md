@@ -1,4 +1,5 @@
-![Untitled design-4](https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2)(https://aimialina.io)
+![Untitled design-4](https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2)<img src="[YOUR_GIF_URL](https://github.com/user-attachments/assets/d176e27d-b4ae-4d65-a906-0531f646e8e2))" width="600" />
+
 <h3 align="center"># Hello 👋, I'm Aimi </h3>
 
 <h3 align="center">### A budding AI developer and analyst</h3>
