@@ -1,6 +1,7 @@
-# Hi 👋, I'm Aimi Alina ^^
+[![MasterHead}('/Users/aimialina/Downloads/Untitled design-4.gif')](https://aimialina.io)
+<h3 align="center"># Hello 👋, I'm Aimi </h3>h3>
 
-### A budding AI developer and analyst
+<h3 align="center">### A budding AI developer and analyst</h3>h3>
 
 - 🔭 I'm currently working on **microalgae detection and identification through VLM.**
 
