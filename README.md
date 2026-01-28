@@ -1,10 +1,10 @@
-# Hi 👋, I'm Aimi Hussin
+# Hi 👋, I'm Aimi Alina ^^
 
-### A budding Python developer
+### A budding AI developer and analyst
 
-- 🔭 I'm currently working on **Microalgae detection and identification through VLM**
+- 🔭 I'm currently working on **microalgae detection and identification through VLM.**
 
-- 🤝 I'm looking for help with **learning AI frameworks**
+- 🤝 I'm looking for help with **learning complete AI frameworks.**
 
 - 📫 How to reach me **aimialinahussin@gmail.com**
 
