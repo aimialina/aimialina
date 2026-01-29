@@ -4,7 +4,7 @@
 
 <h3 align="center">A budding AI developer and analyst</h3>
 
-- 🔭 I'm currently working on **microalgae detection and identification through VLM.**
+- 🔭 I'm currently working on **microalgae detection and identification through multimodal.**
 
 - 📚 Actively learning **Arduino, SQL for Database** as a side-project.
 
