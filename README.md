@@ -2,7 +2,9 @@
 
 <h3 align="center">Hello 👋, I'm Aimi </h3>
 
-<h3 align="center">A budding AI developer and analyst</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF7F2&center=true&width=435&lines=A+budding+AI+developer+and+analyst!" alt="Typing SVG" /></a>
+</p>
 
 - 🔭 I'm currently working on **microalgae detection and identification through multimodal trained on multiple datasets.**
 
