@@ -6,15 +6,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF7F2&center=true&width=435&lines=A+budding+AI+developer+and+analyst!" alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I'm currently working on **microalgae detection and identification through multimodal trained on multiple datasets.**
+- 🔭 I'm currently working on **microalgae detection and identification using multimodal trained on multiple datasets.**
 
-<!--
-- 📚 Actively learning **SQL for Database** as a side-project.
--->
+- 🤝 I'm looking for help with **end-to-end AI frameworks and pipelines**.
 
-- 🤝 I'm looking for help with **learning complete AI frameworks.**
+- 📚 Interested in real-world AI application of production, including energy system and e-commerce.
 
-- 📫 How to reach me **aimialinahussin@gmail.com**
+- 📫 Contact: **aimialinahussin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
